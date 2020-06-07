@@ -1,5 +1,7 @@
 
-## gamer-bot
+## Gen_Y bot
+
+![its-me](https://user-images.githubusercontent.com/3009342/83418837-98448400-a3fa-11ea-9cf1-8113198e5b3d.png)
 
 ### First and foremost
 
