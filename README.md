@@ -1,18 +1,18 @@
-## gamer-bot
+## Gen_Y bot
 
-### Just to start
+### First and foremost
 
 Any suggestion? Bring it to me [HERE](https://github.com/icehaku/gamer-bot/issues)!
 
 My Changelog is always [HERE](https://github.com/icehaku/gamer-bot/releases)!
 
-### Who Am'I?
+### Who Am I?
 
 Hi, I'm the gamer bot a hybrid telegram and discord bot(so fancy 😏), yep, I know, this is a pretty lame name🤪, 
 but my masters promised me this is a temporary nickname until we find out what I'll really be someday.
 
-I'm the product of a study project from my creators, ❄️[Ice](https://github.com/icehaku) and [BlackSagres](https://github.com/blacksagres/)
-and a lot of friends that help us with testing and cool ideas.
+I'm the product of a study project from my creators, ❄️[Ice](https://github.com/icehaku) and 🍕[BlackSagres](https://github.com/blacksagres/)
+and lots of friends that help us with testing and cool ideas.
 
 ### My Project
 
