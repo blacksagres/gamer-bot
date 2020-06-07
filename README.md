@@ -16,7 +16,7 @@ Hi, I'm a gamer bot that can talk to both telegram and discord (so fancy 😏).
 
 Yep, I know, my name is pretty lame 🤪, but my masters promised me this is a temporary nickname until we change to a better one someday.
 
-I'm the product of a study project from my creators, ❄️[Ice](https://github.com/icehaku) and [BlackSagres](https://github.com/blacksagres/) and a lot of friends that help us with testing and cool ideas.
+I'm the product of a study project from my creators, ❄️[Ice](https://github.com/icehaku) and 🍕[BlackSagres](https://github.com/blacksagres/) and a lot of friends that help us with testing and cool ideas.
 
 ### My Project
 
